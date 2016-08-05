@@ -1,7 +1,7 @@
 language: php
 
 sudo: false
-
+test
 git:
     depth: 1
 
